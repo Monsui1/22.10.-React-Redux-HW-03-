@@ -63,11 +63,11 @@
 -Репозиторий на server-json => 
 
 ЗАПУСКАЕМ ПРОЕКТ.
-1. Скачиваем репозиторий №1 -
-2. Скачиваем репозиторий №2 - 
+1. Скачиваем репозиторий №1 - https://github.com/Monsui1/22.10.-React-Redux-HW-03-V1
+2. Скачиваем репозиторий №2 - https://github.com/Monsui1/22.10.-React-Redux-HW-03-V2
 3. Открываем терминал и пишем следующие команды: 
-    4.1. npm add json-server
-    4.2. npm start и открываем ссылку "http://localhost:3000/tickets"
+   3.1. npm add json-server
+   3.2. npm start и открываем ссылку "http://localhost:3000/tickets"
 4. Открываем репозиторий №1 в новом окне и вводим следующие команды:
-    5.1. npm i (npm install)
-    5.2. npm start
+   4.1. npm i (npm install) 
+   4.2. npm start
